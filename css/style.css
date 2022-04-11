@@ -149,6 +149,10 @@ input:focus {
     cursor: pointer;
 }
 
+.selected{
+    background-color: var(--LightGrayishCyan);
+}
+
 .custom{
     background-color: var(--LightGrayishCyan);
     color: var(--DarkGrayishCyan);
